@@ -5,3 +5,4 @@ const num2 = 62
 
 const multiply = num1 * num2
 const random = Math.random(0)
+const mod = 4 % 5

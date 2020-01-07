@@ -1,5 +1,5 @@
 
 // Write your code here
 
-var multiply 
+var multiply
 multiply = num1 * num2
